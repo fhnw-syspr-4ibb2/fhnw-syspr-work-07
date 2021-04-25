@@ -3,7 +3,7 @@
 Für Slides und Code Beispiele, siehe [Lektion 7](../../../fhnw-syspr/blob/master/07/README.md)
 
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
-> *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/TODO).*
+> *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/dPGvrVnS).*
 
 ### a) Threads, 15'
 * Schreiben Sie ein Programm *my_pthreads.c* welches einen Thread erzeugt, und mit *pthread_exit()* endet.
